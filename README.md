@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**WhalePredictAI/WhalePredictAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WhalePredict AI ($WPAI)  
+### AI-Powered Whale Movement Prediction for Smarter Crypto Trading  
 
-Here are some ideas to get you started:
+## Overview  
+WhalePredict AI is an advanced analytics tool designed to track and predict whale movements in the crypto market before they impact price action. By leveraging real-time blockchain data and AI-driven analysis, WhalePredict AI provides insights into large transactions, helping traders anticipate potential market trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How It Works  
+- **Real-Time Data Collection** – Tracks large wallet movements on Ethereum, Binance Smart Chain, and Solana.  
+- **AI-Based Predictive Modeling** – Identifies patterns in whale trading behavior using historical transaction data.  
+- **Automated Alerts** – Notifies traders when significant movements occur, providing actionable insights.  
+
+## Repository Structure  
+- `/src` – AI & blockchain tracking scripts.  
+- `/api` – API endpoints for whale tracking data.  
+- `/docs` – Technical documentation and whitepapers.  
+- `/assets` – Logos, branding materials.  
+
+## Tokenomics  
+- **Total Supply:** 1,000,000,000 $WPAI  
+- **Liquidity Locked** – Contract renounced  
+- **Fair Launch Model** – Designed for transparency and growth.  
+
+## Roadmap  
+1. **Phase 1 – Launch & Community Building**  
+   - Website & GitHub release  
+   - Twitter marketing campaign  
+   - Initial trading tools deployment  
+
+2. **Phase 2 – AI Refinement & Market Adoption**  
+   - Advanced whale tracking integrations  
+   - AI-powered price impact estimations  
+   - Exchange listing applications  
+
+3. **Phase 3 – Expansion & Automation**  
+   - Automated trading signals  
+   - AI-enhanced trading strategies  
+   - Strategic partnerships & growth initiatives  
+
+## Socials & Website  
+- **Twitter:** [https://twitter.com/WhalePredictAI](https://twitter.com/WhalePredictAI)  
+- **Website:** Coming soon...  
+
+## License  
+This project is licensed under the **MIT License** – see the LICENSE file for details.  
+
+---
