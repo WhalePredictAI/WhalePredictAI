@@ -4,7 +4,7 @@
 ### AI-Powered Whale Movement Prediction for Smarter Crypto Trading  
 
 ## Overview  
-WhalePredict AI is an advanced analytics tool designed to track and predict whale movements in the crypto market before they impact price action. By leveraging real-time blockchain data and AI-driven analysis, WhalePredict AI provides insights into large transactions, helping traders anticipate potential market trends.
+WhalePredict AI is an AI-driven analytics tool that tracks and predicts whale movements before they impact the market, helping traders stay ahead of major transactions.
 
 ## How It Works  
 - **Real-Time Data Collection** – Tracks large wallet movements on Ethereum, Binance Smart Chain, and Solana.  
