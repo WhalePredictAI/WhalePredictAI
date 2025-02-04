@@ -1,46 +1,47 @@
 ## Hi there 👋
 
 # WhalePredict AI ($WPAI)  
-### AI-Powered Whale Movement Insights for Smarter Crypto Trading  
+### AI-Powered Historical Whale Pattern Analysis for Smarter Crypto Trading  
 
 ## Overview  
-WhalePredict AI is an analytics platform designed to identify patterns in whale movements and provide traders with actionable insights based on historical data. Our mission is to help users anticipate potential market shifts influenced by large wallet transactions.
+WhalePredict AI is an AI-driven analytics platform that analyzes historical blockchain data to identify market conditions where whale activity has historically occurred. This helps traders anticipate potential future whale movements and make informed decisions.
 
 ## How It Works  
-- **Data Collection** – Continuously monitors major wallet activities across major chains.  
-- **AI-Driven Analysis** – Processes historical transaction patterns to highlight trends in whale behavior.  
-- **Alerts & Insights** – Delivers notifications about significant wallet activities, enabling smarter trading decisions.  
+- **Historical Data Analysis** – Analyzes past blockchain transaction data to identify conditions that have attracted whale activity.  
+- **Real-Time Monitoring** – Tracks significant wallet movements on Solana to stay updated on current trends.  
+- **AI-Based Predictive Modeling** – Highlights patterns in historical whale trading behavior to provide actionable insights.  
+- **Automated Alerts** – Notifies traders when similar market conditions arise, enabling strategic positioning.  
 
 ## Repository Structure  
-- `/src` – Scripts for tracking whale movements and basic AI predictions.  
-- `/api` – (Future) API endpoints for user integration with whale tracking data.  
-- `/docs` – Technical documentation and updates on the project's evolution.  
-- `/assets` – Branding materials and marketing assets.  
+- `/src` – AI & blockchain tracking scripts.  
+- `/api` – API endpoints for historical pattern analysis.  
+- `/docs` – Technical documentation and whitepapers.  
+- `/assets` – Logos, branding materials.  
 
 ## Tokenomics  
 - **Total Supply:** 1,000,000,000 $WPAI  
-- **Liquidity Locked:** Contract Renounced  
-- **Fair Allocation Model:** 97% public allocation, 3% dev allocation (50% locked upon Raydium graduation).  
+- **Liquidity Locked** – Contract renounced.  
+- **Fair Launch Model** – Designed for transparency and growth.  
 
 ## Roadmap  
-### **Phase 1 – Initial Rollout**  
-- Launch website and GitHub repository.  
-- Build community via social platforms.  
-- Deploy initial tracking tools for users.  
+1. **Phase 1 – Launch & Community Building**  
+   - Website & GitHub release.  
+   - Twitter marketing campaign.  
+   - Basic historical analysis tools deployment.  
 
-### **Phase 2 – Development & Refinement**  
-- Enhance AI algorithms for deeper market insights.  
-- Introduce whale trading behavior analysis features.  
-- Apply for exchange listings to increase accessibility.  
+2. **Phase 2 – AI Refinement & Market Adoption**  
+   - Advanced historical pattern detection.  
+   - Community testing and feedback loops.  
+   - Exchange listing applications.  
 
-### **Phase 3 – Expansion & Utility**  
-- Develop advanced trading tools powered by AI.  
-- Explore automated trading signals for users.  
-- Form strategic partnerships to broaden platform impact.  
+3. **Phase 3 – Expansion & Automation**  
+   - Fully automated trading signals.  
+   - AI-enhanced trading strategies based on historical data.  
+   - Strategic partnerships & growth initiatives.  
 
 ## Socials & Website  
-- **Twitter:** [Follow us here](https://twitter.com/WhalePredictAI)  
-- **Website:** Launching soon...  
+- **Twitter:** [https://twitter.com/WhalePredictAI](https://twitter.com/WhalePredictAI)  
+- **Website:** Coming soon...  
 
 ## License  
-This project is licensed under the **MIT License** – see the LICENSE file for full terms and conditions.
+This project is licensed under the **MIT License** – see the LICENSE file for details.  
