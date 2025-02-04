@@ -1,48 +1,46 @@
 ## Hi there 👋
 
 # WhalePredict AI ($WPAI)  
-### AI-Powered Whale Movement Prediction for Smarter Crypto Trading  
+### AI-Powered Whale Movement Insights for Smarter Crypto Trading  
 
 ## Overview  
-WhalePredict AI is an AI-driven analytics tool that tracks and predicts whale movements before they impact the market, helping traders stay ahead of major transactions.
+WhalePredict AI is an analytics platform designed to identify patterns in whale movements and provide traders with actionable insights based on historical data. Our mission is to help users anticipate potential market shifts influenced by large wallet transactions.
 
 ## How It Works  
-- **Real-Time Data Collection** – Tracks large wallet movements on Ethereum, Binance Smart Chain, and Solana.  
-- **AI-Based Predictive Modeling** – Identifies patterns in whale trading behavior using historical transaction data.  
-- **Automated Alerts** – Notifies traders when significant movements occur, providing actionable insights.  
+- **Data Collection** – Continuously monitors major wallet activities across major chains.  
+- **AI-Driven Analysis** – Processes historical transaction patterns to highlight trends in whale behavior.  
+- **Alerts & Insights** – Delivers notifications about significant wallet activities, enabling smarter trading decisions.  
 
 ## Repository Structure  
-- `/src` – AI & blockchain tracking scripts.  
-- `/api` – API endpoints for whale tracking data.  
-- `/docs` – Technical documentation and whitepapers.  
-- `/assets` – Logos, branding materials.  
+- `/src` – Scripts for tracking whale movements and basic AI predictions.  
+- `/api` – (Future) API endpoints for user integration with whale tracking data.  
+- `/docs` – Technical documentation and updates on the project's evolution.  
+- `/assets` – Branding materials and marketing assets.  
 
 ## Tokenomics  
 - **Total Supply:** 1,000,000,000 $WPAI  
-- **Liquidity Locked** – Contract renounced  
-- **Fair Launch Model** – Designed for transparency and growth.  
+- **Liquidity Locked:** Contract Renounced  
+- **Fair Allocation Model:** 97% public allocation, 3% dev allocation (50% locked upon Raydium graduation).  
 
 ## Roadmap  
-1. **Phase 1 – Launch & Community Building**  
-   - Website & GitHub release  
-   - Twitter marketing campaign  
-   - Initial trading tools deployment  
+### **Phase 1 – Initial Rollout**  
+- Launch website and GitHub repository.  
+- Build community via social platforms.  
+- Deploy initial tracking tools for users.  
 
-2. **Phase 2 – AI Refinement & Market Adoption**  
-   - Advanced whale tracking integrations  
-   - AI-powered price impact estimations  
-   - Exchange listing applications  
+### **Phase 2 – Development & Refinement**  
+- Enhance AI algorithms for deeper market insights.  
+- Introduce whale trading behavior analysis features.  
+- Apply for exchange listings to increase accessibility.  
 
-3. **Phase 3 – Expansion & Automation**  
-   - Automated trading signals  
-   - AI-enhanced trading strategies  
-   - Strategic partnerships & growth initiatives  
+### **Phase 3 – Expansion & Utility**  
+- Develop advanced trading tools powered by AI.  
+- Explore automated trading signals for users.  
+- Form strategic partnerships to broaden platform impact.  
 
 ## Socials & Website  
-- **Twitter:** [https://twitter.com/WhalePredictAI](https://twitter.com/WhalePredictAI)  
-- **Website:** Coming soon...  
+- **Twitter:** [Follow us here](https://twitter.com/WhalePredictAI)  
+- **Website:** Launching soon...  
 
 ## License  
-This project is licensed under the **MIT License** – see the LICENSE file for details.  
-
----
+This project is licensed under the **MIT License** – see the LICENSE file for full terms and conditions.
